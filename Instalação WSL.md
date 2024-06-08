@@ -1,9 +1,9 @@
-#  Laboratório 01 - Instalação do Ubuntu 20.04 no Windows Subsystem for Linux 2 (WSL2)
+#  Laboratório 01 - Instalação do Ubuntu 24.04 no Windows Subsystem for Linux 2 (WSL2)
 
 ## 1 - Objetivos
 
 
-Instalar e configurar o Ubuntu 20.04 no Windows Subsystem for Linux 2 (WSL2).
+Instalar e configurar o Ubuntu 24.04 no Windows Subsystem for Linux 2 (WSL2).
 
 * Windows Subsystem for Linux 2;
 
