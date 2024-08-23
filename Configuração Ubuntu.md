@@ -2,7 +2,7 @@
 
 ## 1 - Objetivos
 
-Configurar o Ubuntu 20.04 no Windows Subsystem for Linux 2 (WSL2) como sistema
+Configurar o Ubuntu 24.04 no Windows Subsystem for Linux 2 (WSL2) como sistema
 para desenvolvimento de firmware para microcontroladores da família STM32.
 Nesta aula iremos instalar
 
@@ -14,7 +14,7 @@ Nesta aula iremos instalar
 
 ## 2 - Pré-requisitos
 
-* Ubuntu 20.04;
+* Ubuntu 24.04;
 * Conhecimento básico da utilização de sistemas Linux;
 * ST-LINK *in-circuit debugger and programmer*.
 
